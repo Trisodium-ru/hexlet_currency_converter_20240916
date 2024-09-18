@@ -1,5 +1,7 @@
 # Конвертер валют
+_Ссылка на последнюю версию конвертера [Converter v0.1a](https://github.com/Trisodium-ru/hexlet_currency_converter_20240916/releases/tag/homework)_  
 **Для запуска программы нужно запустить main.py и работать с терминалом.**
+
 
 ## Возможности:
 1. **help**: вывести помощь
