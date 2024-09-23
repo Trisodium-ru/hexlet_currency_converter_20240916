@@ -1,5 +1,5 @@
 ## Конвертер валют
-_Ссылка на последнюю версию конвертера [здесь](https://github.com/Trisodium-ru/hexlet_currency_converter_20240916/releases/tag/homework)_  
+_Ссылка на последнюю версию конвертера [здесь](https://github.com/Trisodium-ru/hexlet_currency_converter_20240916/releases)_ 
 **Для запуска программы нужно запустить main.py и работать с терминалом.**
 
 
